@@ -1,7 +1,9 @@
 
   # Project
   
-  ### Ecomm Store Room
+  ### Ecomm Store 
+  ![image](https://user-images.githubusercontent.com/82853759/165657183-4e7561e9-60a3-470f-929b-214770c06d98.png)
+
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
   ## Table of Contents
@@ -33,6 +35,10 @@ npm i to install dependencies and then ensure you have insomnia/postman installe
 
 # Usage
 a GET to http://localhost:3001/api/categories/ will return all categories from the seeded sql tables
+
+
+Check out this video walkthrough!
+https://drive.google.com/file/d/1xoMM46xcTyD_t3V_mAgEDp1htlgNQHiA/view
 
 # Credits 
 
